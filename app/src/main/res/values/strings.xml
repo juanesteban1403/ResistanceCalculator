@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">"ResistanceCalculator "</string>
+    <string name="tresbandas">3 Bandas</string>
+    <string name="titulo">Seleccione Los colores </string>
+    <string name="primerabanda">Primera cifra</string>
+    <string name="segundabanda">Segunda cifra</string>
+    <string name="tercerabanda">Multiplicador</string>
+    <string name="tolerancia">Tolerancia</string>
+    <string name="plata">Plata</string>
+    <string name="oro">Oro</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">RESULTADO</string>
+    <string-array name="PrimeraBanda">
+        <item>Negro</item>
+        <item>Cafe</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </string-array>
+</resources>
